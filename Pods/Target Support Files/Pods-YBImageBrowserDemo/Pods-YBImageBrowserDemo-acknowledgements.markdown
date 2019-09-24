@@ -25,7 +25,7 @@ THE SOFTWARE.
 
 
 
-## YYImage
+## YYKit
 
 The MIT License (MIT)
 

@@ -17,10 +17,11 @@
 #import <YYWebImage/YYImageCoder.h>
 #import <YYWebImage/YYAnimatedImageView.h>
 #else
-#import "YYFrameImage.h"
-#import "YYSpriteSheetImage.h"
-#import "YYImageCoder.h"
-#import "YYAnimatedImageView.h"
+//#import "YYFrameImage.h"
+//#import "YYSpriteSheetImage.h"
+//#import "YYImageCoder.h"
+//#import "YYAnimatedImageView.h"
+#import <YYKit/YYKit.h>
 #endif
 
 NS_ASSUME_NONNULL_BEGIN
